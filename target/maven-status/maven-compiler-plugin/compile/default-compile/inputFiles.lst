@@ -1,0 +1,10 @@
+D:\sahana\tasks\onetomany\src\main\java\com\example\onetomany\controller\DepartmentController.java
+D:\sahana\tasks\onetomany\src\main\java\com\example\onetomany\controller\EmployeeController.java
+D:\sahana\tasks\onetomany\src\main\java\com\example\onetomany\dto\DepartmentDTO.java
+D:\sahana\tasks\onetomany\src\main\java\com\example\onetomany\entity\Department.java
+D:\sahana\tasks\onetomany\src\main\java\com\example\onetomany\entity\Employee.java
+D:\sahana\tasks\onetomany\src\main\java\com\example\onetomany\OnetomanyApplication.java
+D:\sahana\tasks\onetomany\src\main\java\com\example\onetomany\repository\DepartmentRepository.java
+D:\sahana\tasks\onetomany\src\main\java\com\example\onetomany\repository\EmployeeRepository.java
+D:\sahana\tasks\onetomany\src\main\java\com\example\onetomany\service\DepartmentService.java
+D:\sahana\tasks\onetomany\src\main\java\com\example\onetomany\service\EmployeeService.java
